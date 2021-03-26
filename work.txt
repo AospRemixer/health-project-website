@@ -1,5 +1,3 @@
 Main.html = 
 
-Redirect 1 = Types Of Injuries 
-Home Redirect = Story 
 Redirect 2 = Services
